@@ -10,3 +10,4 @@ rootProject.name = "Androidxx"
 include ':app'
 include ':androidx_helper'
 include ':androidxx_ui'
+include ':wi_logger'

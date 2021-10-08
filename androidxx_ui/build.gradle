@@ -6,7 +6,7 @@ ext {
     artifactId = "ui"
     artifactName = 'ui'
     artifactDescription = "androidx ui"
-    artifactVersion = "1.0.0"
+    artifactVersion = "0.0.1"
     githubUrl = "https://github.com/ChinaVolvocars/Androidxx"
     githubHttps = "https://github.com/ChinaVolvocars/Androidxx.git"
     githubSSH = "git@github.com:ChinaVolvocars/Androidxx.git"
