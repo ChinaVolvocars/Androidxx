@@ -1,16 +1,16 @@
 plugins {
     id 'com.android.library'
 }
-apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
-ext {
-    artifactId = "ui"
-    artifactName = 'ui'
-    artifactDescription = "androidx ui"
-    artifactVersion = "0.0.1"
-    githubUrl = "https://github.com/ChinaVolvocars/Androidxx"
-    githubHttps = "https://github.com/ChinaVolvocars/Androidxx.git"
-    githubSSH = "git@github.com:ChinaVolvocars/Androidxx.git"
-}
+//apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
+//ext {
+//    artifactId = "ui"
+//    artifactName = 'ui'
+//    artifactDescription = "androidx ui"
+//    artifactVersion = "0.0.1"
+//    githubUrl = "https://github.com/ChinaVolvocars/Androidxx"
+//    githubHttps = "https://github.com/ChinaVolvocars/Androidxx.git"
+//    githubSSH = "git@github.com:ChinaVolvocars/Androidxx.git"
+//}
 
 android {
     compileSdk 30

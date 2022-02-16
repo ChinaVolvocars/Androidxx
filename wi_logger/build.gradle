@@ -1,15 +1,15 @@
 apply plugin: 'com.android.library'
-apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
-
-ext {
-    artifactId = "logger"
-    artifactName = 'logger'
-    artifactDescription = "androidx logger"
-    artifactVersion = "0.0.1"
-    githubUrl = "https://github.com/ChinaVolvocars/logger"
-    githubHttps = "https://github.com/ChinaVolvocars/logger.git"
-    githubSSH = "git@github.com:ChinaVolvocars/logger.git"
-}
+//apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
+//
+//ext {
+//    artifactId = "logger"
+//    artifactName = 'logger'
+//    artifactDescription = "androidx logger"
+//    artifactVersion = "0.0.1"
+//    githubUrl = "https://github.com/ChinaVolvocars/logger"
+//    githubHttps = "https://github.com/ChinaVolvocars/logger.git"
+//    githubSSH = "git@github.com:ChinaVolvocars/logger.git"
+//}
 
 
 
