@@ -1,16 +1,16 @@
 apply plugin: 'com.android.library'
 //apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
-apply from: "../publish-mavencentral.gradle"
+//apply from: "../publish-mavencentral.gradle"
 
-ext {
-    artifactId = "helper"
-    artifactName = 'helper'
-    artifactDescription = "androidx helper"
-    artifactVersion = "1.0.0"
-    githubUrl = "https://github.com/ChinaVolvocars/Androidxx"
-    githubHttps = "https://github.com/ChinaVolvocars/Androidxx.git"
-    githubSSH = "git@github.com:ChinaVolvocars/Androidxx.git"
-}
+//ext {
+//    artifactId = "helper"
+//    artifactName = 'helper'
+//    artifactDescription = "androidx helper"
+//    artifactVersion = "1.0.0"
+//    githubUrl = "https://github.com/ChinaVolvocars/Androidxx"
+//    githubHttps = "https://github.com/ChinaVolvocars/Androidxx.git"
+//    githubSSH = "git@github.com:ChinaVolvocars/Androidxx.git"
+//}
 
 android {
     compileSdk 30
